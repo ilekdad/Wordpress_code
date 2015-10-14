@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# To update the version shipped in this quickstart, bump this variable:
+# To update the version shipped in this quickstart, bump this variable vito läge text:
 #
 install_version="4.0"
 
