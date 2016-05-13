@@ -1,6 +1,6 @@
 <<<<<<< HEAD
 # guthub_lab
-Vito_testar
+Vito_testar mera text, mitt andra text.
 my first repo.
 testar igen
 jag lägger till lite text.
