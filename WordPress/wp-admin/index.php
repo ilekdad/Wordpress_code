@@ -6,7 +6,7 @@
  * @subpackage Administration
  */
 
-/** Load WordPress Bootstrap */
+/** Load WordPress22 Bootstrap */
 require_once( dirname( __FILE__ ) . '/admin.php' );
 
 /** Load WordPress dashboard API */
