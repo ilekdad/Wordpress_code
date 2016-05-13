@@ -1,2 +1,3 @@
 hello world, 20160513
 lägge till lite mer text för att se om det händer nåt.
+en till rad i vim
